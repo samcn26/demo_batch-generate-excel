@@ -1,0 +1,15 @@
+{
+  "name": "batchmakeexcel",
+  "version": "1.0.0",
+  "description": "batch make excel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sam",
+  "license": "ISC",
+  "dependencies": {
+    "ejsexcel": "^3.5.5",
+    "express": "^4.17.1"
+  }
+}
